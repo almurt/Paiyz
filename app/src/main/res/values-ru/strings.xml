@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пайыз</string>
+    <string name="vAmount_str" translatable="false">Сумма</string>
+    <string name="action_settings">Настройки</string>
+    <string name="vPercent_str" translatable="false">Процент</string>
+    <string name="vYears_str" translatable="false">Годы</string>
+    <string name="vMonths_str" translatable="false">Месяц</string>
+    <string name="vCalcMethod_str" translatable="false">Метод расчета</string>
+
+    <string-array name="vCalcKind_strarr">
+        <item>Аннуитетный</item>
+        <item>Дифференциорванный</item>
+    </string-array>
+</resources>
